@@ -1,0 +1,14 @@
+{
+    "notas": [
+        {
+            "nombre": "Juan",
+            "nota": 6,
+            "ranking": 2
+        },
+        {
+           "nombre": "Marta",
+            "nota": 10,
+            "ranking": 1
+        }
+    ]
+}
