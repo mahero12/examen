@@ -1,14 +1,11 @@
-{
-    "notas": [
-        {
-            "nombre": "Juan",
-            "nota": 6,
-            "ranking": 2
-        },
-        {
-           "nombre": "Marta",
-            "nota": 10,
-            "ranking": 1
-        }
-    ]
-}
+[
+    {"alumno":"Carmen","nota":9.09,"ranking":10},
+    {"alumno":"Pedro","nota":8.5,"ranking":20},
+    {"alumno":"Juan","nota":7.0,"ranking":50},
+    {"alumno":"Ana","nota":6.5,"ranking":100},
+    {"alumno":"Luis","nota":5.5,"ranking":150},
+    {"alumno":"Maria","nota":4.0,"ranking":200},
+    {"alumno":"Carlos","nota":3.0,"ranking":250},
+    {"alumno":"Sofia","nota":2.5,"ranking":300},
+    {"alumno":"Miguel","nota":1.5,"ranking":350}
+]
